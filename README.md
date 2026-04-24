@@ -14,8 +14,6 @@ I’m currently building a strong foundation in programming through the 100 Days
 ### 🛠️ Tech Stack & Tools
 [![Python](https://shields.io)](https://python.org) 
 [![GitHub](https://shields.io)](https://github.com)
----
-
-### 📊 My GitHub Stats
-![Prakhar's GitHub Stats](https://vercel.app)
-
+![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prakharsijwaliofficial&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Prakharsijwaliofficial&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakharsijwaliofficial&layout=compact&theme=tokyonight)

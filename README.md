@@ -14,4 +14,8 @@ I’m currently building a strong foundation in programming through the 100 Days
 ### 🛠️ Tech Stack & Tools
 [![Python](https://shields.io)](https://python.org) 
 [![GitHub](https://shields.io)](https://github.com)
-![My GitHub Stats](https://vercel.app)
+---
+
+### 📊 My GitHub Stats
+![Prakhar's GitHub Stats](https://vercel.app)
+

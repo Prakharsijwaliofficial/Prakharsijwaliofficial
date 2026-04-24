@@ -2,23 +2,12 @@
 
 ### 🚀 Aspiring Python Developer | ML, DL & Computer Vision Enthusiast
 
-I am currently taking the **100 Days of Code: The Complete Python Pro Boot Camp** by Angela Yu to build a world-class foundation in programming.
+I am currently building a world-class foundation in programming through the **100 Days of Code: Python Pro Boot Camp**.
 
-- 🔭 **Current Goal:** Mastering Python fundamentals (Currently on Day 5!).
-- 🎯 **Future Focus:** Deep Learning, Neural Networks, and OpenCV.
-- ⚡ **Fun Fact:** I'm building a project every single day to stay consistent.
-
----
-
-### 📅 My 100 Days of Code Journey
-
-| Day | Project Name | Tech Used |
-| :--- | :--- | :--- |
-| [Day 1](https://github.com) | Band Name Generator | Variables, Input function |
-| Day 2 | Tip Calculator | Data Types, Numbers |
-| Day 3 | Treasure Island | Control Flow, Logical Operators |
-| Day 4 | Rock Paper Scissors | Randomization, Lists |
-| Day 5 | Password Generator | Loops, Range |
+- 🔭 **Current Goal:** Mastering Python fundamentals & logic.
+- 🎯 **The Mission:** 100 days, 100 projects. 
+- 🧠 **Future Focus:** Deep Learning, Neural Networks, and OpenCV.
+- ⚡ **Check out my progress:** [100 Days of Python Challenge Folder](./100-Days-of-Python-Challenge)
 
 ---
 

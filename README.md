@@ -12,5 +12,6 @@ I am currently building a world-class foundation in programming through the **10
 ---
 
 ### 🛠️ Tech Stack & Tools
-![Python](https://shields.io) 
-![GitHub](https://shields.io)
+[![Python](https://shields.io)](https://python.org) 
+[![GitHub](https://shields.io)](https://github.com)
+

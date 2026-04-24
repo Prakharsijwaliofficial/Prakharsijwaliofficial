@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring Python Developer | ML, DL & Computer Vision Enthusiast
 
-I am currently building a world-class foundation in programming through the **100 Days of Code: Python Pro Boot Camp**.
+I’m currently building a strong foundation in programming through the 100 Days of Code: Python Bootcamp.
 
 - 🔭 **Current Goal:** Mastering Python fundamentals & logic.
 - 🎯 **The Mission:** 100 days, 100 projects. 

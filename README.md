@@ -14,7 +14,7 @@ I am currently taking the **100 Days of Code: The Complete Python Pro Boot Camp*
 
 | Day | Project Name | Tech Used |
 | :--- | :--- | :--- |
-| Day 1 | Band Name Generator | Variables, Input function |
+| [Day 1](https://github.com) | Band Name Generator | Variables, Input function |
 | Day 2 | Tip Calculator | Data Types, Numbers |
 | Day 3 | Treasure Island | Control Flow, Logical Operators |
 | Day 4 | Rock Paper Scissors | Randomization, Lists |

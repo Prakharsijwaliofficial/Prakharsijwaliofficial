@@ -30,7 +30,7 @@
 ---
 
 ## 📌 Projects
-- 🔹 [Python Beginner Projects](https://github.com/Prakharsijwaliofficial/python-beginner-projects)
+- 🔹 [Python Beginner Projects](https://github.com/Prakharsijwaliofficial/100-Days-of-Python-Challenge)
 - 🔹 More coming soon...
 
 ---
